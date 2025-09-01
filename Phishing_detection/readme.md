@@ -4,26 +4,8 @@ This project presents a **research-grade phishing detection system** that levera
 
 ---
 
-Phishing_detection/
-├── FL Prototype/
-│   ├── client_1/
-│   │   └── fl_client.py               # Federated client script
-│   └── requirements.txt              # FL environment dependencies
-│
-├── Local Model Architecture/
-│   ├── EMAIL/
-│   │   └── Email_msgs_prediction.ipynb    # Email phishing detection (ML + BERT)
-│   ├── URL/
-│   │   └── Url_Prediction.ipynb           # URL feature-based phishing detection
-│   ├── Images/
-│   │   └── Image_prediction.ipynb         # CNN models for phishing logos
-│   └── Multimodal.ipynb                   # Fusion model combining all three modalities
-│
-├── Papers/
-│   ├── Final Report project.pdf           # Detailed technical report
-│   └── Final Presentation - Phishing.pptx # Slide deck for presentation
-│
-└── readme.md                              # Project documentation (this file)                       # Project summary (to be replaced with markdown README.md)
+<img width="1900" height="1272" alt="image" src="https://github.com/user-attachments/assets/5a50cd97-8297-4324-9981-aecde519782d" />
+
 
 ---
 
