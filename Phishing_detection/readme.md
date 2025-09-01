@@ -4,7 +4,6 @@ This project presents a **research-grade phishing detection system** that levera
 
 ---
 
-## 📁 Repository Structure
 Phishing_detection/
 ├── FL Prototype/
 │   ├── client_1/
@@ -24,7 +23,7 @@ Phishing_detection/
 │   ├── Final Report project.pdf           # Detailed technical report
 │   └── Final Presentation - Phishing.pptx # Slide deck for presentation
 │
-└── readme.txt                             # Project summary (to be replaced with markdown README.md)
+└── readme.md                              # Project documentation (this file)                       # Project summary (to be replaced with markdown README.md)
 
 ---
 
