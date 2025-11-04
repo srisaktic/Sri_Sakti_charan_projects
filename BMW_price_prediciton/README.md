@@ -57,9 +57,4 @@ Then open http://localhost:8502/ in your browser.
 
 Sri Sakticharan Nirmal Kumar
 Master’s in Data Science – NYIT
-📧 srisakticharan789@gmail.com
-🔗 LinkedIn￼
-
-⸻
-
-Would you like me to make this GitHub-ready (with emojis, markdown formatting, and section dividers) so it looks professional on your repo page?
+📧 srisakticharan4@gmail.com
